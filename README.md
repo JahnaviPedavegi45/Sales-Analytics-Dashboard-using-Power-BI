@@ -14,8 +14,7 @@ Enhanced design with conditional formatting and image integration
 
 This dashboard provides a clear view of business performance and trends in an interactive and user-friendly format.
 
-
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](./power%20bi/img/demo.png)
+![Sales Dashboard](https://github.com/JahnaviPedavegi45/Sales-Analytics-Dashboard-using-Power-BI/blob/main/Power-BI-main/power%20bi/img/demo.png?raw=true)
 

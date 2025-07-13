@@ -13,3 +13,9 @@ Interactive visualizations (charts, slicers, tooltips)
 Enhanced design with conditional formatting and image integration
 
 This dashboard provides a clear view of business performance and trends in an interactive and user-friendly format.
+
+
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard](./power%20bi/img/demo.png)
+
